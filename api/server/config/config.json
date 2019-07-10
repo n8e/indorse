@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "docker",
+    "password": "docker",
+    "database": "indorse_development",
+    "host": "indorse-db-development",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "docker",
+    "password": "docker",
+    "database": "indorse_test",
+    "host": "indorse-db-test",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "docker",
+    "password": "docker",
+    "database": "indorse_production",
+    "host": "indorse-db-production",
+    "port": "5432",
+    "dialect": "postgres"
+  }
+}
